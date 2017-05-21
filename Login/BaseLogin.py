@@ -1,7 +1,7 @@
 '''
 Created on May 21, 2017
 
-@author: Admin
+@author: Smita
 '''
 import os
 from selenium import webdriver
